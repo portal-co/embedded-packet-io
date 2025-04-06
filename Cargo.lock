@@ -25,7 +25,7 @@ dependencies = [
 
 [[package]]
 name = "embedded-packet-io"
-version = "0.1.0"
+version = "0.0.0"
 dependencies = [
  "embedded-io",
  "embedded-io-async",
